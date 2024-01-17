@@ -118,7 +118,7 @@ body{
 }
 
 .info_box{
-    width: 540px;
+    width: auto;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
@@ -176,7 +176,7 @@ body{
 }
 
 .quiz_box{
-    width: 550px;
+    width: auto;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
@@ -379,7 +379,7 @@ footer button.show{
     border-radius: 5px;
     display: flex;
     padding: 25px 30px;
-    width: 450px;
+    width: auto;
     align-items: center;
     flex-direction: column;
     justify-content: center;
@@ -419,7 +419,7 @@ footer button.show{
 
 .result_box .buttons button{
     margin: 0 10px;
-    height: 45px;
+    height: auto;
     padding: 0 20px;
     font-size: 18px;
     font-weight: 500;
